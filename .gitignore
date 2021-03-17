@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Deactivate virtual environment
+env/
+
+# Files to ignore
+conf/
